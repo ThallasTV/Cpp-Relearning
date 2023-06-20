@@ -5,10 +5,14 @@
 using namespace std; //Using namespace for efficiency whilst relearning.
 int main()
 {
-	coutExamples();
+	/*coutExamples();
 	additionExample();
 	subtractExample();
 	multiplyExample();
 	divideExample();
+	incdecrementExample();*/
+	/*simplePointer();*/
+	/*arrayPointer();*/
+	multiArray();
 	return 0;
 }
